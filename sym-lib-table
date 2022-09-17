@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ALD_MOS")(type "KiCad")(uri "${KIPRJMOD}/ALD_MOS.kicad_sym")(options "")(descr ""))
+)
